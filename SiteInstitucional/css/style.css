@@ -81,3 +81,16 @@ p span{
     color: #d62e71;
 }
 /* Fim do Social */
+
+/* Início do Footer */
+.footer{
+    width: 100%;
+    background-color: #32a7b1;
+    color: #f4f2f3;
+}
+.footer .container{
+    justify-content: center;
+    height: 150px;
+    align-items: center;
+}
+/* Fim do Footer */
